@@ -1,5 +1,5 @@
 # A Dataset of Sudoku Puzzles with Difficulty Metrics by Human Players
-## A paper submitted to IEEE Transactions on Games
+### A paper submitted to IEEE Transactions on Games
 
 Sudoku is a popular puzzle game all around the world.
 Difficulty rating of a Sudoku puzzle is a  difficult problem and a large number of researches have been proposed to tackle the problem.
