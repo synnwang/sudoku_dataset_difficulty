@@ -16,3 +16,8 @@ The proposed dataset can be used to evaluate the difficulty rating algorithms.
 ### Difficulty Metrics
 * D_TO: Considers playing time in solving a Sudoku game only
 * D_TR: Considers playing time and the completion rate both
+
+### Publications
+
+### Research Works Using The Dataset
+
