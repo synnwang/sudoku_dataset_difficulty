@@ -13,3 +13,6 @@ Two difficulty metrics are then proposed for each Sudoku puzzle based on the dur
 A dataset of Sudoku puzzles with their difficulty metrics is designed and constructed.
 The proposed dataset can be used to evaluate the difficulty rating algorithms.
 
+### Difficulty Metrics
+* D_TO: Considers playing time in solving a Sudoku game only
+* D_TR: Considers playing time and the completion rate both
