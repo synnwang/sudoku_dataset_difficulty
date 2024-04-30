@@ -18,6 +18,7 @@ The proposed dataset can be used to evaluate the difficulty rating algorithms.
 * $D_{TR}$: Considers playing time and the completion rate both
 
 ### Publications
-
+* Y.C. Lin, W.Y. Kuo, and S.W. Wang , “Cloud Sudoku: A Sudoku Application to Collect Game Records by Human Players,” in IEEE International Conference On Consumer Electronics - Taiwan (IEEE ICCE-TW 2024), Taichung, Taiwan, July 9-11, 2024.
+  
 ### Research Works Using The Dataset
 
