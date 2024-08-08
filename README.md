@@ -19,6 +19,7 @@ The proposed dataset can be used to evaluate the difficulty rating algorithms.
 
 ### Publications
 * Y.C. Lin, W.Y. Kuo, and S.W. Wang , “Cloud Sudoku: A Sudoku Application to Collect Game Records by Human Players,” in IEEE International Conference On Consumer Electronics - Taiwan (IEEE ICCE-TW 2024), Taichung, Taiwan, July 9-11, 2024.
+* S.W. Wang, “A Dataset of Sudoku Puzzles with Difficulty Metrics Experienced by Human Players,” in IEEE Access, 2024.
   
 ### Research Works Using The Dataset
 
