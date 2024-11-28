@@ -33,4 +33,5 @@ The proposed dataset can be used to evaluate the difficulty rating algorithms.
 
 
 ### Research Works Using The Dataset
+* Dhananjaya, Asoka, Jeanny Pragantha, and Darius Haris. "Rancangan Pembuatan Puzzle 2D" Perfect Match" untuk Perangkat Android." Jurnal Komputer, Informasi dan Teknologi 4.2 (2024): 9-9.
 
