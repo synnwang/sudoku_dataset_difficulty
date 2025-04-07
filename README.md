@@ -15,20 +15,33 @@ The proposed dataset can be used to evaluate the difficulty rating algorithms.
 * $D_{TO}$: Considers playing time in solving a Sudoku game only
 * $D_{TR}$: Considers playing time and the completion rate both
 
+### The files
+* 20240415.csv: The data with two difficulty metrics
+* sudoku_records_20250407.xls: The data with sudoku problems with number of players completing it and average solving time in seconds
+
 ### Publications
 * Y.C. Lin, W.Y. Kuo, and S.W. Wang , “Cloud Sudoku: A Sudoku Application to Collect Game Records by Human Players,” in IEEE International Conference On Consumer Electronics - Taiwan (IEEE ICCE-TW 2024), Taichung, Taiwan, July 9-11, 2024.
 * S.W. Wang, "A Dataset of Sudoku Puzzles With Difficulty Metrics Experienced by Human Players," in IEEE Access, vol. 12, pp. 104254-104262, 2024, doi: 10.1109/ACCESS.2024.3434632.
 
 ### Bibtex
 @ARTICLE{2024wang_sudoku,
+
   author={Wang, Sheng-Wei},
+
   journal={IEEE Access}, 
+  
   title={A Dataset of Sudoku Puzzles With Difficulty Metrics Experienced by Human Players}, 
+  
   year={2024},
+  
   volume={12},
+  
   number={},
+  
   pages={104254-104262},
+  
   keywords={Measurement;Games;Mobile applications;Database systems;Computational modeling;Accuracy;Generators;Data models;Dataset;difficulty metrics;difficulty rating;human players;Sudoku},
+  
   doi={10.1109/ACCESS.2024.3434632}}
   
 ### Download Android APK File
