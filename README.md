@@ -20,7 +20,7 @@ The proposed dataset can be used to evaluate the difficulty rating algorithms.
 * sudoku_records_20250407.xls: The data with sudoku problems with number of players completing it and average solving time in seconds
 
 ### Publications
-* Y.C. Lin, W.Y. Kuo, and S.W. Wang , “Cloud Sudoku: A Sudoku Application to Collect Game Records by Human Players,” in IEEE International Conference On Consumer Electronics - Taiwan (IEEE ICCE-TW 2024), Taichung, Taiwan, July 9-11, 2024.https://ieeexplore.ieee.org/document/10674538
+* [Y.C. Lin, W.Y. Kuo, and S.W. Wang , “Cloud Sudoku: A Sudoku Application to Collect Game Records by Human Players,” in IEEE International Conference On Consumer Electronics - Taiwan (IEEE ICCE-TW 2024), Taichung, Taiwan, July 9-11, 2024.](https://ieeexplore.ieee.org/document/10674538)
 * S.W. Wang, "A Dataset of Sudoku Puzzles With Difficulty Metrics Experienced by Human Players," in IEEE Access, vol. 12, pp. 104254-104262, 2024, doi: 10.1109/ACCESS.2024.3434632.
 
 ### Bibtex
