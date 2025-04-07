@@ -15,7 +15,7 @@ The proposed dataset can be used to evaluate the difficulty rating algorithms.
 * $D_{TO}$: Considers playing time in solving a Sudoku game only
 * $D_{TR}$: Considers playing time and the completion rate both
 
-### The files
+### The Datasets
 * 20240415.csv: The data with two difficulty metrics
 * sudoku_records_20250407.xls: The data with sudoku problems with number of players completing it and average solving time in seconds
 
