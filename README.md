@@ -41,5 +41,6 @@ The proposed dataset can be used to evaluate the difficulty rating algorithms.
 
 
 ### Research Works Using The Dataset
-* Dhananjaya, Asoka, Jeanny Pragantha, and Darius Haris. "Rancangan Pembuatan Puzzle 2D" Perfect Match" untuk Perangkat Android." Jurnal Komputer, Informasi dan Teknologi 4.2 (2024): 9-9.
+* Dhananjaya, Asoka, Jeanny Pragantha, and Darius Haris. "[Rancangan Pembuatan Puzzle 2D" Perfect Match" untuk Perangkat Android.](https://penerbitadm.pubmedia.id/index.php/KOMITEK/article/view/1961)" Jurnal Komputer, Informasi dan Teknologi 4.2 (2024): 9-9.
+* Ates, Tugce, and Fatih Cavdur. "[Sudoku puzzle generation using mathematical programming and heuristics: Puzzle construction and game development.](https://www.sciencedirect.com/science/article/pii/S0957417425013326)" Expert Systems with Applications (2025): 127710.
 
