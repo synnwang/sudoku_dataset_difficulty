@@ -43,4 +43,7 @@ The proposed dataset can be used to evaluate the difficulty rating algorithms.
 ### Research Works Using The Dataset
 * Dhananjaya, Asoka, Jeanny Pragantha, and Darius Haris. "[Rancangan Pembuatan Puzzle 2D" Perfect Match" untuk Perangkat Android.](https://penerbitadm.pubmedia.id/index.php/KOMITEK/article/view/1961)" Jurnal Komputer, Informasi dan Teknologi 4.2 (2024): 9-9.
 * Ates, Tugce, and Fatih Cavdur. "[Sudoku puzzle generation using mathematical programming and heuristics: Puzzle construction and game development.](https://www.sciencedirect.com/science/article/pii/S0957417425013326)" Expert Systems with Applications (2025): 127710.
+* Setiawan, Jerry, Jeanny Pragantha, and Darius Haris. "Rancangan Permainan Puzzle Match-3 2D “Bubble Blazt” pada Platform Android." Jurnal Komputer, Informasi dan Teknologi 5.1 (2025): 9-9.
+* Thangamani, Rajan, and Pallavi Regulagedda. "A Computational Complexity-Based Framework for Predicting the Difficulty of Sudoku Puzzles Using CSP-Based Symbolic Modeling and Constraint Metrics." Journal of Computational and Cognitive Engineering (2025).
+* Yakut, Selman, and Erkan Karagöz. "A Graph-Theoretic Solution to NP-Complete Sudoku Puzzles: Malatya Centrality for Large-Scale Optimization." IEEE Access (2025).
 
